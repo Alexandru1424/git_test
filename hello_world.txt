@@ -1,0 +1,3 @@
+Hi there!
+This is me trying to figure it out how to become a front end dev.
+I am not saying it will be easy, but let`s dive into TOP lessons.
